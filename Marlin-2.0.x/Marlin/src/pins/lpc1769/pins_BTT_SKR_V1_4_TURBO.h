@@ -24,6 +24,8 @@
 #define BOARD_INFO_NAME "BTT SKR V1.4 TURBO"
 #define SKR_HAS_LPC1769
 
+#define TEMP_0_PIN                    P0_26_A3 // SPI top left port
+
 //
 // Include SKR 1.4 pins
 //
